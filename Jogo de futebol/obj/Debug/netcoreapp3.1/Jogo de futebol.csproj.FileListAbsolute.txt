@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\bin\Debug\netcoreapp3.1\Jogo de futebol.exe
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\bin\Debug\netcoreapp3.1\Jogo de futebol.deps.json
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\bin\Debug\netcoreapp3.1\Jogo de futebol.runtimeconfig.json
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\bin\Debug\netcoreapp3.1\Jogo de futebol.runtimeconfig.dev.json
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\bin\Debug\netcoreapp3.1\Jogo de futebol.dll
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\bin\Debug\netcoreapp3.1\Jogo de futebol.pdb
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\obj\Debug\netcoreapp3.1\Jogo de futebol.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\obj\Debug\netcoreapp3.1\Jogo de futebol.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\obj\Debug\netcoreapp3.1\Jogo de futebol.AssemblyInfo.cs
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\obj\Debug\netcoreapp3.1\Jogo de futebol.dll
+C:\Users\filip\Desktop\Jogo de futebol\Jogo de futebol\obj\Debug\netcoreapp3.1\Jogo de futebol.pdb
